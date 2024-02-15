@@ -10,12 +10,9 @@ export default {
        primary: "#0d9488"
       },
       fontFamily: {
-        roboto: ['Exo 2', "sans-serif"],
-        pacifico: ['Pacifico', "cursive"]
+        roboto: ["Space Grotesk", "sans-serif"],
+        
       },
-      boxShadow: {
-        card: '0px 1px 2px 0px rgba(0, 0, 0, 0.05)'
-      }
     },
   },
   plugins: [],
